@@ -1,10 +1,16 @@
-![Super Nintendo game controller](https://a-static.besthdwallpaper.com/super-nintendo-controller-wallpaper-1920x1080-13606_48.jpg)
+[![Super Nintendo game controller](https://a-static.besthdwallpaper.com/super-nintendo-controller-wallpaper-1920x1080-13606_48.jpg)](https://github.com/RodCato/Gamer_Vault_2/assets/130795137/3dc524c6-7956-44ec-88cc-458b2c319914
+)
 
 <br>
 
 ![Typing SVG of GamerVault](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=BEC3FA&width=235&lines=GamerVault)
 
 This application allows users to create an account and manage their list of video games. Users can browse available games, search and add games to their list, update game attributes, and delete games from their list.  It also pulls data from the [RAWG](https://rawg.io/) API.
+
+
+
+
+
 
 Live Link: https://crod.co/gvs/
 
